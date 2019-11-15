@@ -1,0 +1,16 @@
+{
+  "name": "utils88",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-fetch": "^2.6.0",
+    "urlencode": "^1.1.0"
+  }
+}
